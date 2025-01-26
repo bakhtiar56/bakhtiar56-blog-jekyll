@@ -2,8 +2,8 @@ title:              Personal Blog
 email:              bakhtiar.rasheed56@gmail.com
 description:        Blog about my interests, aspirations and opinions.
 author:             Bakhtiar Rasheed
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://bakhtiar56-blog.github.io"
+baseurl:            "/blog"
+url:                "https://bakhtiar56.github.io"
 
 # Social Profiles
 twitter_username:   
